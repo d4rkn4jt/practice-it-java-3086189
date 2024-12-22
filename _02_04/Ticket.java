@@ -21,7 +21,7 @@ public class Ticket {
     this.price = price;
   }
 
-  public viod setIsReturn(boolean isReturn) {
+  public void setIsReturn(boolean isReturn) {
     this.isReturn = isReturn;
   }
 
